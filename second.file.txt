@@ -1,1 +1,1 @@
-is a second test file
+This is a second test file. I have created it for no particular purpose.
